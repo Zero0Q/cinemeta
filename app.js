@@ -1,2 +1,2 @@
-const { search } = require("./lib/cinemeta");
-module.exports = search;
+const Cinemeta = require("./lib/cinemeta");
+module.exports = Cinemeta;
